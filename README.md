@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0072-edit-distance](https://github.com/simplysandeepp/DSA/tree/main/0072-edit-distance/) | Medium |
 | [0120-triangle](https://github.com/simplysandeepp/DSA/tree/main/0120-triangle/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/simplysandeepp/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/simplysandeepp/DSA/tree/main/0322-coin-change/) | Medium |
 | [0337-house-robber-iii](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/0337-house-robber-iii/) | Medium |
 | [0396-rotate-function](https://github.com/simplysandeepp/DSA/tree/main/0396-rotate-function/) | Medium |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/simplysandeepp/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
+| [0300-longest-increasing-subsequence](https://github.com/simplysandeepp/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Easy/0303-range-sum-query-immutable/) | Easy |
 | [0307-range-sum-query-mutable](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/0307-range-sum-query-mutable/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/0315-count-of-smaller-numbers-after-self/) | Hard |
@@ -206,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/simplysandeepp/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/simplysandeepp/DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0327-count-of-range-sum](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/0327-count-of-range-sum/) | Hard |
 | [0493-reverse-pairs](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/0493-reverse-pairs/) | Hard |
