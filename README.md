@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/simplysandeepp/DSA/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0741-cherry-pickup](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Hard/0741-cherry-pickup/) | Hard |
 | [0788-rotated-digits](https://github.com/simplysandeepp/DSA/tree/main/0788-rotated-digits/) | Medium |
+| [0790-domino-and-tromino-tiling](https://github.com/simplysandeepp/DSA/tree/main/0790-domino-and-tromino-tiling/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Hard/0834-sum-of-distances-in-tree/) | Hard |
 | [0879-profitable-schemes](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Hard/0879-profitable-schemes/) | Hard |
 | [0968-binary-tree-cameras](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Hard/0968-binary-tree-cameras/) | Hard |
