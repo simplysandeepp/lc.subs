@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0834-sum-of-distances-in-tree](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Hard/0834-sum-of-distances-in-tree/) | Hard |
 | [0879-profitable-schemes](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Hard/0879-profitable-schemes/) | Hard |
 | [0968-binary-tree-cameras](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Hard/0968-binary-tree-cameras/) | Hard |
+| [1137-n-th-tribonacci-number](https://github.com/simplysandeepp/DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1340-jump-game-v](https://github.com/simplysandeepp/DSA/tree/main/1340-jump-game-v/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Hard/1463-cherry-pickup-ii/) | Hard |
 | [1473-paint-house-iii](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/1473-paint-house-iii/) | Hard |
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/simplysandeepp/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0396-rotate-function](https://github.com/simplysandeepp/DSA/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/simplysandeepp/DSA/tree/main/0788-rotated-digits/) | Medium |
+| [1137-n-th-tribonacci-number](https://github.com/simplysandeepp/DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/simplysandeepp/DSA/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Easy/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -524,4 +526,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/simplysandeepp/DSA/tree/main/0062-unique-paths/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1137-n-th-tribonacci-number](https://github.com/simplysandeepp/DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
 <!---LeetCode Topics End-->
