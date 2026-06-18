@@ -1,41 +1,29 @@
-// class Solution {
-//     public int largestRectangleArea(int[] heights) {
-//         int n = heights.length;
-//         int maxi = 0;
-
-//         for (int i = 0; i < n; i++) {
-//             int h=heights[i];
-
-//             int l = i;
-//             while (l>=0 && heights[l] >= h) {
-//                 l--;
-//             }
-//             int r = i;
-//             while (r<n && heights[r] >= h) {
-//                 r++;
-//             }
-//             int width = r-l-1;
-//             maxi = Math.max(maxi, h * width);
-//         }
-
-//         return maxi;
-//     }
-// }
-
 class Solution {
     public int largestRectangleArea(int[] heights) {
-        int n = heights.length;
-        Stack<Integer> s = new Stack<>();
-        int maxi = 0;
-        for (int i = 0; i <= n; i++) {
-            int h = (i == n) ? 0 : heights[i];
-            while (!s.isEmpty() && h < heights[s.peek()]) {
-                int height = heights[s.pop()];
-                int width = s.isEmpty() ? i : i - s.peek() - 1;
-                maxi = Math.max(maxi, height * width);
+        Stack<Integer> st = new Stack<>();
+        int length = heights.length;
+        int area = 0;
+
+        for (int i = 0; i < length; i++) {
+            // Process stack while current bar is smaller than top of stack
+            while (!st.empty() && heights[i] < heights[st.peek()]) {
+                int bar = st.pop(); // Index of the bar
+                int pse = st.empty() ? -1 : st.peek(); // Previous smaller element index
+                int nse = i; // Current index is next smaller element
+                // Width = nse - pse - 1
+                area = Math.max(area, heights[bar] * (nse - pse - 1));
             }
-            s.push(i);
+            st.push(i);
         }
-        return maxi;
+
+        // Process remaining bars in stack
+        while (!st.empty()) {
+            int bar = st.pop();
+            int pse = st.empty() ? -1 : st.peek();
+            int nse = length;
+            area = Math.max(area, heights[bar] * (nse - pse - 1));
+        }
+
+        return area;
     }
 }
