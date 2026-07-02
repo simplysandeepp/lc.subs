@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0834-sum-of-distances-in-tree](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Hard/0834-sum-of-distances-in-tree/) | Hard |
 | [0879-profitable-schemes](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Hard/0879-profitable-schemes/) | Hard |
 | [0968-binary-tree-cameras](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Hard/0968-binary-tree-cameras/) | Hard |
+| [1048-longest-string-chain](https://github.com/simplysandeepp/DSA/tree/main/1048-longest-string-chain/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/simplysandeepp/DSA/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/simplysandeepp/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1340-jump-game-v](https://github.com/simplysandeepp/DSA/tree/main/1340-jump-game-v/) | Hard |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0974-subarray-sums-divisible-by-k](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0994-rotting-oranges](https://github.com/simplysandeepp/DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/simplysandeepp/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1048-longest-string-chain](https://github.com/simplysandeepp/DSA/tree/main/1048-longest-string-chain/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/simplysandeepp/DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1268-search-suggestions-system](https://github.com/simplysandeepp/DSA/tree/main/1268-search-suggestions-system/) | Medium |
 | [1306-jump-game-iii](https://github.com/simplysandeepp/DSA/tree/main/1306-jump-game-iii/) | Medium |
@@ -212,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/simplysandeepp/DSA/tree/main/0061-rotate-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
+| [1048-longest-string-chain](https://github.com/simplysandeepp/DSA/tree/main/1048-longest-string-chain/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/simplysandeepp/DSA/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/simplysandeepp/DSA/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/simplysandeepp/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -255,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0657-robot-return-to-origin](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/simplysandeepp/DSA/tree/main/0712-minimum-ascii-delete-sum-for-two-strings/) | Medium |
 | [0796-rotate-string](https://github.com/simplysandeepp/DSA/tree/main/0796-rotate-string/) | Easy |
+| [1048-longest-string-chain](https://github.com/simplysandeepp/DSA/tree/main/1048-longest-string-chain/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/simplysandeepp/DSA/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1268-search-suggestions-system](https://github.com/simplysandeepp/DSA/tree/main/1268-search-suggestions-system/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/simplysandeepp/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -412,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/simplysandeepp/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1048-longest-string-chain](https://github.com/simplysandeepp/DSA/tree/main/1048-longest-string-chain/) | Medium |
 | [1345-jump-game-iv](https://github.com/simplysandeepp/DSA/tree/main/1345-jump-game-iv/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/simplysandeepp/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/simplysandeepp/DSA/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -574,6 +579,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/simplysandeepp/DSA/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/simplysandeepp/DSA/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/simplysandeepp/DSA/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [1048-longest-string-chain](https://github.com/simplysandeepp/DSA/tree/main/1048-longest-string-chain/) | Medium |
 | [1268-search-suggestions-system](https://github.com/simplysandeepp/DSA/tree/main/1268-search-suggestions-system/) | Medium |
 | [1340-jump-game-v](https://github.com/simplysandeepp/DSA/tree/main/1340-jump-game-v/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/simplysandeepp/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
