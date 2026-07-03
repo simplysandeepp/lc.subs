@@ -44,6 +44,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes detected in data.json. Skipping commit."
           else
-            git commit -m "chore: auto-update data.json [skip ci]"
+            git commit -m "chore: auto-update data.json"
             git push origin main
           fi
