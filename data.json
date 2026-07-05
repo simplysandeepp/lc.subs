@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-07-04T21:17:08.142Z",
+  "lastUpdated": "2026-07-05T04:32:07.662Z",
   "stats": {
-    "total": 576,
+    "total": 577,
     "difficulty": {
       "Easy": 211,
       "Medium": 279,
-      "Hard": 86
+      "Hard": 87
     },
     "platform": {
-      "LeetCode": 554,
+      "LeetCode": 555,
       "GFG": 22
     },
     "languages": {
-      "Java": 523,
+      "Java": 524,
       "SQL": 32,
       "Python": 4
     }
@@ -4153,6 +4153,20 @@
         "1299-replace-elements-with-greatest-element-on-right-side.java"
       ],
       "url": "https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side"
+    },
+    {
+      "number": 1301,
+      "title": "Number of Paths with Max Score",
+      "difficulty": "Hard",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "1301-number-of-paths-with-max-score",
+      "solutionFiles": [
+        "1301-number-of-paths-with-max-score.java"
+      ],
+      "url": "https://leetcode.com/problems/number-of-paths-with-max-score"
     },
     {
       "number": 1304,
