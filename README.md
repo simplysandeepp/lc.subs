@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1048-longest-string-chain](https://github.com/simplysandeepp/DSA/tree/main/1048-longest-string-chain/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/simplysandeepp/DSA/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1268-search-suggestions-system](https://github.com/simplysandeepp/DSA/tree/main/1268-search-suggestions-system/) | Medium |
+| [1288-remove-covered-intervals](https://github.com/simplysandeepp/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/simplysandeepp/DSA/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/simplysandeepp/DSA/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/simplysandeepp/DSA/tree/main/1340-jump-game-v/) | Hard |
@@ -600,6 +601,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/simplysandeepp/DSA/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [1048-longest-string-chain](https://github.com/simplysandeepp/DSA/tree/main/1048-longest-string-chain/) | Medium |
 | [1268-search-suggestions-system](https://github.com/simplysandeepp/DSA/tree/main/1268-search-suggestions-system/) | Medium |
+| [1288-remove-covered-intervals](https://github.com/simplysandeepp/DSA/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1340-jump-game-v](https://github.com/simplysandeepp/DSA/tree/main/1340-jump-game-v/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/simplysandeepp/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/simplysandeepp/DSA/tree/main/1840-maximum-building-height/) | Hard |
