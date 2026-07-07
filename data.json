@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-07-06T20:26:37.371Z",
+  "lastUpdated": "2026-07-07T09:35:03.075Z",
   "stats": {
-    "total": 578,
+    "total": 579,
     "difficulty": {
-      "Easy": 211,
+      "Easy": 212,
       "Medium": 280,
       "Hard": 87
     },
     "platform": {
-      "LeetCode": 556,
+      "LeetCode": 557,
       "GFG": 22
     },
     "languages": {
-      "Java": 525,
+      "Java": 526,
       "SQL": 32,
       "Python": 4
     }
@@ -7297,6 +7297,20 @@
       "path": "3753-total-waviness-of-numbers-in-range-ii",
       "solutionFiles": [],
       "url": "https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii"
+    },
+    {
+      "number": 3754,
+      "title": "Concatenate Non-Zero Digits and Multiply by Sum I",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "3754-concatenate-non-zero-digits-and-multiply-by-sum-i",
+      "solutionFiles": [
+        "3754-concatenate-non-zero-digits-and-multiply-by-sum-i.java"
+      ],
+      "url": "https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i"
     },
     {
       "number": 3761,
