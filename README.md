@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/simplysandeepp/DSA/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/simplysandeepp/DSA/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/simplysandeepp/DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/simplysandeepp/DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/simplysandeepp/DSA/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3660-jump-game-ix](https://github.com/simplysandeepp/DSA/tree/main/3660-jump-game-ix/) | Medium |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3488-closest-equal-element-queries](https://github.com/simplysandeepp/DSA/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/simplysandeepp/DSA/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/simplysandeepp/DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/simplysandeepp/DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/simplysandeepp/DSA/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/simplysandeepp/DSA/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -232,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/simplysandeepp/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/simplysandeepp/DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/simplysandeepp/DSA/tree/main/2540-minimum-common-value/) | Easy |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/simplysandeepp/DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/simplysandeepp/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/simplysandeepp/DSA/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Stack
@@ -340,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/simplysandeepp/DSA/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/simplysandeepp/DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/simplysandeepp/DSA/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/simplysandeepp/DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/simplysandeepp/DSA/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -368,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/simplysandeepp/DSA/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/simplysandeepp/DSA/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/simplysandeepp/DSA/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/simplysandeepp/DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/simplysandeepp/DSA/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/simplysandeepp/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/simplysandeepp/DSA/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -378,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0397-integer-replacement](https://github.com/simplysandeepp/DSA/tree/main/0397-integer-replacement/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/simplysandeepp/DSA-Questions/tree/main/LeetCode/Hard/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/simplysandeepp/DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/simplysandeepp/DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/simplysandeepp/DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -492,6 +498,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2126-destroying-asteroids](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/simplysandeepp/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/simplysandeepp/DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/simplysandeepp/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/simplysandeepp/DSA/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/simplysandeepp/DSA/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -620,6 +627,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2126-destroying-asteroids](https://github.com/simplysandeepp/Leetcode-Journey-/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/simplysandeepp/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/simplysandeepp/DSA/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/simplysandeepp/DSA/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/simplysandeepp/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/simplysandeepp/DSA/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Union-Find
