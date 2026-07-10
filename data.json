@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-07-09T10:47:38.415Z",
+  "lastUpdated": "2026-07-10T19:06:29.910Z",
   "stats": {
-    "total": 581,
+    "total": 582,
     "difficulty": {
       "Easy": 212,
       "Medium": 282,
-      "Hard": 87
+      "Hard": 88
     },
     "platform": {
-      "LeetCode": 559,
+      "LeetCode": 560,
       "GFG": 22
     },
     "languages": {
-      "Java": 528,
+      "Java": 529,
       "SQL": 32,
       "Python": 4
     }
@@ -6951,6 +6951,20 @@
         "3532-path-existence-queries-in-a-graph-i.java"
       ],
       "url": "https://leetcode.com/problems/path-existence-queries-in-a-graph-i"
+    },
+    {
+      "number": 3534,
+      "title": "Path Existence Queries in a Graph II",
+      "difficulty": "Hard",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "3534-path-existence-queries-in-a-graph-ii",
+      "solutionFiles": [
+        "3534-path-existence-queries-in-a-graph-ii.java"
+      ],
+      "url": "https://leetcode.com/problems/path-existence-queries-in-a-graph-ii"
     },
     {
       "number": 3536,
