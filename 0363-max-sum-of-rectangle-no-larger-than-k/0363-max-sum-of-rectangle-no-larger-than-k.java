@@ -16,7 +16,7 @@ class Solution {
                     rowSum[row] += matrix[row][right];
                 }
 
-                int currentMax = maxSubArrayNoGreaterThanK(rowSum, k);
+                int currentMax = helper(rowSum, k);
                 answer = Math.max(answer, currentMax);
 
                 if (answer == k) {
@@ -28,7 +28,7 @@ class Solution {
         return answer;
     }
 
-    private int maxSubArrayNoGreaterThanK(int[] nums, int k) {
+    private int helper(int[] nums, int k) {
 
         TreeSet<Integer> prefixSums = new TreeSet<>();
         prefixSums.add(0);
