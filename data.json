@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-07-10T19:06:29.910Z",
+  "lastUpdated": "2026-07-12T05:27:13.885Z",
   "stats": {
-    "total": 582,
+    "total": 584,
     "difficulty": {
-      "Easy": 212,
+      "Easy": 213,
       "Medium": 282,
-      "Hard": 88
+      "Hard": 89
     },
     "platform": {
-      "LeetCode": 560,
+      "LeetCode": 562,
       "GFG": 22
     },
     "languages": {
-      "Java": 529,
+      "Java": 531,
       "SQL": 32,
       "Python": 4
     }
@@ -2399,6 +2399,20 @@
       "url": "https://leetcode.com/problems/count-numbers-with-unique-digits"
     },
     {
+      "number": 363,
+      "title": "Max Sum of Rectangle No Larger Than K",
+      "difficulty": "Hard",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "0363-max-sum-of-rectangle-no-larger-than-k",
+      "solutionFiles": [
+        "0363-max-sum-of-rectangle-no-larger-than-k.java"
+      ],
+      "url": "https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/"
+    },
+    {
       "number": 367,
       "title": "Valid Perfect Square",
       "difficulty": "Easy",
@@ -4251,6 +4265,20 @@
         "1323-maximum-69-number.java"
       ],
       "url": "https://leetcode.com/problems/maximum-69-number"
+    },
+    {
+      "number": 1331,
+      "title": "Rank Transform of an Array",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "1331-rank-transform-of-an-array",
+      "solutionFiles": [
+        "1331-rank-transform-of-an-array.java"
+      ],
+      "url": "https://leetcode.com/problems/rank-transform-of-an-array"
     },
     {
       "number": 1340,
