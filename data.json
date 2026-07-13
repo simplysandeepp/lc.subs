@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-07-12T05:27:13.885Z",
+  "lastUpdated": "2026-07-13T16:31:35.302Z",
   "stats": {
-    "total": 584,
+    "total": 585,
     "difficulty": {
       "Easy": 213,
-      "Medium": 282,
+      "Medium": 283,
       "Hard": 89
     },
     "platform": {
-      "LeetCode": 562,
+      "LeetCode": 563,
       "GFG": 22
     },
     "languages": {
-      "Java": 531,
+      "Java": 532,
       "SQL": 32,
       "Python": 4
     }
@@ -4153,6 +4153,20 @@
         "1288-remove-covered-intervals.java"
       ],
       "url": "https://leetcode.com/problems/remove-covered-intervals"
+    },
+    {
+      "number": 1291,
+      "title": "Sequential Digits",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "1291-sequential-digits",
+      "solutionFiles": [
+        "1291-sequential-digits.java"
+      ],
+      "url": "https://leetcode.com/problems/sequential-digits"
     },
     {
       "number": 1293,
