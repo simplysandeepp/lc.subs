@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-14T03:42:51.667Z",
+  "lastUpdated": "2026-07-15T04:44:58.189Z",
   "stats": {
     "total": 586,
     "difficulty": {
@@ -7202,7 +7202,7 @@
       "solutionFiles": [
         "3658-gcd-of-odd-and-even-sums.java"
       ],
-      "url": "https://leetcode.com/problems/gcd-of-odd-and-even-sums/"
+      "url": "https://leetcode.com/problems/gcd-of-odd-and-even-sums"
     },
     {
       "number": 3660,
