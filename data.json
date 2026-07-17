@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-07-15T04:44:58.189Z",
+  "lastUpdated": "2026-07-17T03:58:58.686Z",
   "stats": {
-    "total": 586,
+    "total": 587,
     "difficulty": {
       "Easy": 213,
       "Medium": 283,
-      "Hard": 90
+      "Hard": 91
     },
     "platform": {
-      "LeetCode": 564,
+      "LeetCode": 565,
       "GFG": 22
     },
     "languages": {
@@ -6755,6 +6755,16 @@
         "3300-minimum-element-after-replacement-with-digit-sum.java"
       ],
       "url": "https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum"
+    },
+    {
+      "number": 3312,
+      "title": "Sorted GCD Pair Queries",
+      "difficulty": "Hard",
+      "platform": "LeetCode",
+      "languages": [],
+      "path": "3312-sorted-gcd-pair-queries",
+      "solutionFiles": [],
+      "url": "https://leetcode.com/problems/sorted-gcd-pair-queries"
     },
     {
       "number": 3318,
