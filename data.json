@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-07-18T07:16:49.536Z",
+  "lastUpdated": "2026-07-19T04:47:03.634Z",
   "stats": {
-    "total": 590,
+    "total": 591,
     "difficulty": {
       "Easy": 214,
-      "Medium": 285,
+      "Medium": 286,
       "Hard": 91
     },
     "platform": {
-      "LeetCode": 568,
+      "LeetCode": 569,
       "GFG": 22
     },
     "languages": {
-      "Java": 536,
+      "Java": 537,
       "SQL": 32,
       "Python": 4
     }
@@ -3915,6 +3915,20 @@
         "1071-greatest-common-divisor-of-strings.java"
       ],
       "url": "https://leetcode.com/problems/greatest-common-divisor-of-strings"
+    },
+    {
+      "number": 1081,
+      "title": "Smallest Subsequence of Distinct Characters",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "1081-smallest-subsequence-of-distinct-characters",
+      "solutionFiles": [
+        "1081-smallest-subsequence-of-distinct-characters.java"
+      ],
+      "url": "https://leetcode.com/problems/smallest-subsequence-of-distinct-characters"
     },
     {
       "number": 1084,
