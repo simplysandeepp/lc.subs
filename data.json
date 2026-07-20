@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-07-19T04:47:03.634Z",
+  "lastUpdated": "2026-07-20T03:28:04.187Z",
   "stats": {
-    "total": 591,
+    "total": 592,
     "difficulty": {
-      "Easy": 214,
+      "Easy": 215,
       "Medium": 286,
       "Hard": 91
     },
     "platform": {
-      "LeetCode": 569,
+      "LeetCode": 570,
       "GFG": 22
     },
     "languages": {
-      "Java": 537,
+      "Java": 538,
       "SQL": 32,
       "Python": 4
     }
@@ -4153,6 +4153,20 @@
         "1254-number-of-closed-islands.java"
       ],
       "url": "https://leetcode.com/problems/number-of-closed-islands"
+    },
+    {
+      "number": 1260,
+      "title": "Shift 2D Grid",
+      "difficulty": "Easy",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "1260-shift-2d-grid",
+      "solutionFiles": [
+        "1260-shift-2d-grid.java"
+      ],
+      "url": "https://leetcode.com/problems/shift-2d-grid"
     },
     {
       "number": 1268,
