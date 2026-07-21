@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-07-20T03:28:04.187Z",
+  "lastUpdated": "2026-07-21T19:48:44.292Z",
   "stats": {
-    "total": 592,
+    "total": 593,
     "difficulty": {
       "Easy": 215,
-      "Medium": 286,
+      "Medium": 287,
       "Hard": 91
     },
     "platform": {
-      "LeetCode": 570,
+      "LeetCode": 571,
       "GFG": 22
     },
     "languages": {
-      "Java": 538,
+      "Java": 539,
       "SQL": 32,
       "Python": 4
     }
@@ -7045,6 +7045,20 @@
         "3498-reverse-degree-of-a-string.java"
       ],
       "url": "https://leetcode.com/problems/reverse-degree-of-a-string"
+    },
+    {
+      "number": 3499,
+      "title": "Maximize Active Section with Trade I",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "3499-maximize-active-section-with-trade-i",
+      "solutionFiles": [
+        "3499-maximize-active-section-with-trade-i.java"
+      ],
+      "url": "https://leetcode.com/problems/maximize-active-section-with-trade-i"
     },
     {
       "number": 3512,
