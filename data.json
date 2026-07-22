@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-07-21T19:48:44.292Z",
+  "lastUpdated": "2026-07-22T05:17:41.907Z",
   "stats": {
-    "total": 593,
+    "total": 594,
     "difficulty": {
       "Easy": 215,
       "Medium": 287,
-      "Hard": 91
+      "Hard": 92
     },
     "platform": {
-      "LeetCode": 571,
+      "LeetCode": 572,
       "GFG": 22
     },
     "languages": {
-      "Java": 539,
+      "Java": 540,
       "SQL": 32,
       "Python": 4
     }
@@ -7059,6 +7059,20 @@
         "3499-maximize-active-section-with-trade-i.java"
       ],
       "url": "https://leetcode.com/problems/maximize-active-section-with-trade-i"
+    },
+    {
+      "number": 3501,
+      "title": "Maximize Active Section with Trade II",
+      "difficulty": "Hard",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "3501-maximize-active-section-with-trade-ii",
+      "solutionFiles": [
+        "3501-maximize-active-section-with-trade-ii.java"
+      ],
+      "url": "https://leetcode.com/problems/maximize-active-section-with-trade-ii"
     },
     {
       "number": 3512,
