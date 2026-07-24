@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-07-23T02:28:13.387Z",
+  "lastUpdated": "2026-07-24T02:53:13.945Z",
   "stats": {
-    "total": 595,
+    "total": 596,
     "difficulty": {
       "Easy": 215,
-      "Medium": 288,
+      "Medium": 289,
       "Hard": 92
     },
     "platform": {
-      "LeetCode": 573,
+      "LeetCode": 574,
       "GFG": 22
     },
     "languages": {
-      "Java": 541,
+      "Java": 542,
       "SQL": 32,
       "Python": 4
     }
@@ -7101,6 +7101,20 @@
         "3513-number-of-unique-xor-triplets-i.java"
       ],
       "url": "https://leetcode.com/problems/number-of-unique-xor-triplets-i"
+    },
+    {
+      "number": 3514,
+      "title": "Number of Unique XOR Triplets II",
+      "difficulty": "Medium",
+      "platform": "LeetCode",
+      "languages": [
+        "Java"
+      ],
+      "path": "3514-number-of-unique-xor-triplets-ii",
+      "solutionFiles": [
+        "3514-number-of-unique-xor-triplets-ii.java"
+      ],
+      "url": "https://leetcode.com/problems/number-of-unique-xor-triplets-ii"
     },
     {
       "number": 3516,
